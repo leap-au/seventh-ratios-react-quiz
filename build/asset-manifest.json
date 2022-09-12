@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7979f6cd.css",
+    "main.js": "/static/js/main.27fd1d66.js",
+    "static/js/787.9c4f8028.chunk.js": "/static/js/787.9c4f8028.chunk.js",
+    "static/media/default.jpg": "/static/media/default.7c34467fce9562473ea7.jpg",
+    "static/media/leap-orange-navy-brand.jpg": "/static/media/leap-orange-navy-brand.715d19ef18a95eb4eb6a.jpg",
+    "static/media/TEST.png": "/static/media/TEST.00ddc9d54abf8f298186.png",
+    "static/media/leap-orange-navy-brand.png": "/static/media/leap-orange-navy-brand.86a5d7fae878f7925199.png",
+    "static/media/question-example-1.jpg": "/static/media/question-example-1.daacd2c631999b5703a5.jpg",
+    "static/media/start-example.jpg": "/static/media/start-example.7ed0760f435c91f29a40.jpg",
+    "static/media/result-example.jpg": "/static/media/result-example.621965d07d7ab9f773e5.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/icon-whatsapp.svg": "/static/media/icon-whatsapp.517e3105b800a510414935c436a28583.svg",
+    "static/media/icon-twitter.svg": "/static/media/icon-twitter.eee46c407cab2a6c791fff2d01f29cc8.svg",
+    "index.html": "/index.html",
+    "static/media/icon-facebook.svg": "/static/media/icon-facebook.a46390b9d70ad562237c5dad74fc991a.svg",
+    "static/media/arrow-return.svg": "/static/media/arrow-return.8a7efde01816673696bb89076713458f.svg",
+    "main.7979f6cd.css.map": "/static/css/main.7979f6cd.css.map",
+    "main.27fd1d66.js.map": "/static/js/main.27fd1d66.js.map",
+    "787.9c4f8028.chunk.js.map": "/static/js/787.9c4f8028.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7979f6cd.css",
+    "static/js/main.27fd1d66.js"
+  ]
+}
